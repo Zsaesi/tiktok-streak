@@ -1,0 +1,4 @@
+CAPTCHA_API_KEY="api_key_ocacaptcha"
+TIKTOK_USERNAME="username"
+TIKTOK_PASSWORD="password"
+MESSAGE="auto send message"
